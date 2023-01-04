@@ -10,4 +10,4 @@
 
 from playsound import playsound
 
-playsound('D:\\amand\\Projetos\\python\\exercise\\ex21.mp3')
+playsound('D:\\amand\\Projetos\\python\\mundo01-fundamentos\\exercise\\ex21.mp3')
